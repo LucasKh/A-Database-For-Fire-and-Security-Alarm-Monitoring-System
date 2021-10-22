@@ -6,7 +6,10 @@
     - TYPE OF SENSING DEVICES
     - AIM/OBJECTIVES
 2. DESIGN MODELS
-3. SQL QUERIES 
+    -  Entity-Relationship Diagram (including all assumptions)
+    -  Logical Schema (15 tables)
+4. SQL QUERIES (20 advanced SQL queries) and their corresponding output 
+snapshots
 4. CONCLUSION AND FUTURE WORK
 5. REFERENCES
 # AIMS/OBJECTIVES 
