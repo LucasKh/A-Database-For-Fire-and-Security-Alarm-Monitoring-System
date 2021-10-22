@@ -29,4 +29,4 @@ who attend the buildings for undesired purposes.
 - LOGICAL SCHEMA
 ![LogicalSchema FINAL VERSION](https://user-images.githubusercontent.com/88887839/138503132-12b76958-0718-4f96-b87d-5000c45a4da0.jpg)
 # SQL QUEIRES
-All included in the tables with screenshots of the table.  
+All included in the tables with snapshots of all the tables.  
